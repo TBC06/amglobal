@@ -1,0 +1,106 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgba(255, 0, 255, 0.651); /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+.Top{
+    background-color:rgb(243, 81, 243);
+    height: 300px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+.left{
+    background-color:rgb(255, 24, 24);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+.right{
+    background-color:rgb(31, 201, 15);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+
+.bottom{
+    background-color:rgb(222, 17, 109);
+    height: 300px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+.info{
+    background-color: blueviolet;
+    height: 1000px;
+    width: 50%;
+    float: left;
+    font-size: 38px;
+    color: black;
+}
+
+.photo{
+    background-color: rgb(220, 0, 255);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size: 38%;
+    color: black;    
+}
+
+.Site{
+background-color: orchid;
+height: 100%;
+width: 100%;
+float: left;
+font-size: 38%;
+color: black;
+
+}
+
+.cuisine{
+    background-color: orchid;
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size: 150%;
+    color: black;
+
+}
+
+.cuisine2{
+    background-color: orchid;
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size: 50%;
+    color: black;
+
+}
+
+.cuisine3{
+    background-color: orchid;
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size: 150%;
+    color: black;
+}
+
+.cuisine4{
+    background-color: orchid;
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size: 50%;
+    color: black;
+}
